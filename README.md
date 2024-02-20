@@ -23,15 +23,15 @@ funciones, programas con objetos visuales(círculos,cuadrados,...) que se puedan
 > Yo creía que lo que iba a ver sobre este tema me iba a servir para saber crear pequeñas aplicaciones o programas con objetos
 visuales y funcionales como por ejemplo un pequeño programa con botones los cuales me permitan crear objetos, borrar objetos que 
 me lleven a otra parte de la aplicación,... .Otro ejemplo sería crear un programa que simule un juego de mesa con funciones básicas, como por ejemplo
-hacer un parchís el cual se vea el tablero, se vean las fichas, que las fichas se muevan,etc.También el juego de la oca en el que se vean las fichas con dados que generen números aleatorios y se vean el número que han salido en l.os dados,etc.
+hacer un parchís el cual se vea el tablero, se vean las fichas, que las fichas se muevan,etc.También el juego de la oca en el que se vean las fichas con dados que generen números aleatorios y se vean el número que han salido en los dados,etc.
 
 ---
 ## ***2. Qué he aprendido durante las dos unidades.***
->Durante las dos unidades he aprendido a como crear objetos, a crear métodos, a crear constructores, como funcionan las diferntes relaciones entre clases,
-como funciona la herencia de clases, que atributos heredan las clases, que es una superclase, que es una subclase, saber diferenciarlas, saber que una clase puede superclase de una clase y
+>Durante las dos unidades he aprendido a como crear objetos, a crear métodos, a crear constructores, como funcionan las diferentes relaciones entre clases,
+como funciona la herencia de clases,que atributos heredan las clases, que es una superclase, que es una subclase, saber diferenciarlas, saber que una clase puede superclase de una clase y
 a su vez ser subclase de otra, saber que una clase por defecto tiene una superclase llamada ***Object*** de la cual heredan los métodos que esta tiene
 que son los métodos **toString** y el **equals**, otra cosa que he aprendido es que un objeto puede tener un atributo cuyo tipo sea de otro objeto
-que hayamos creado.También he aprendido cuales son los tipos de atributos ***(public,private,protected y friendly)*** y las reglas de visibilidad de cada uno de ellos ,etc.
+que hayamos creado.También he aprendido cuáles son los tipos de atributos ***(public,private,protected y friendly)*** y las reglas de visibilidad de cada uno de ellos ,etc.
 
 
 ### Reglas de visibilidad:
@@ -47,7 +47,7 @@ que hayamos creado.También he aprendido cuales son los tipos de atributos ***(p
 ---
 ## ***3.Los dos ejercicios de las prácticas que para mí han sido los más importantes. Por qué han sido los ejercicios más importantes para mí y lo que aprendí con ellos.***
 > Para mí uno de los ejercicios de las prácticas que ha sido de lo más importantes es la práctica 18, la de los Puntos.
-Para mi es una de las prácticas más importantes porque aprendes a como crear objetos, crear métodos, aprendes a utilizar los métodos get y set
+Para mí es una de las prácticas más importantes porque aprendes a como crear objetos, crear métodos, aprendes a utilizar los métodos get y set
 aprendes a crear atributos en una clase que son de tipo de objetos de otra clase, por ejemplo en este caso en la clase ***Rectangulo.java*** tiene un atributo llamado esquina que es de tipo Punto,etc.
 
 > Con este ejercicio he aprendido como funcionan los métodos get y set, he aprendido a crear métodos como el de dibujar, también he aprendido con esta práctica que se pueden crear objetos de diferentes maneras mediante los diferentes constructores que hayamos creado, a como crear un punto y sus atributos,etc.
@@ -162,7 +162,7 @@ public class Rectangulo {
 ```
 
 >La otra práctica que me ha parecido de las más importantes es la práctica 20, la de las Barajas.
-Para mí esta es una de las prácticas más importantes porque aprendemos a utilizar el contructor por defecto, aprendemos a crear atributos estáticos, utilizamos cosas vistas anteriormente como el ***shuffle*** para poder barajar las cartas, aprendemos como funcionan y como crear crear atributos que son arrays de objetos , por ejemplo en la clase Baraja tenemos el atributo cartas que es un array de tipo Carta,etc. 
+Para mí esta es una de las prácticas más importantes porque aprendemos a utilizar el contructor por defecto, aprendemos a crear atributos estáticos, utilizamos cosas vistas anteriormente como el ***shuffle*** para poder barajar las cartas, aprendemos como funcionan y como crear atributos que son arrays de objetos , por ejemplo en la clase Baraja tenemos el atributo cartas que es un array de tipo Carta,etc. 
 
 >Yo lo que he aprendido con esta práctica es como funcionan y como crear los constructores por defecto,también he aprendido a crear atributos que son arrays cuyo tipo es un objeto,en este caso tenemos el atributo cartas en la clase Baraja que es un array de cartas, y como usarlos.También he aprendido como utilizar los métodos que he creado y además como construir objetos sin tener que introducir ningún dato a la hora de crearlo.
 
@@ -254,6 +254,20 @@ public class App {
     }
 }
 ```
+---
+## 4. Mis conclusiones en este momento sobre estas dos unidades:
+### 4.1. Que aprendí realmente de estas dos unidades
+>Lo que realmente aprendí de estas dos unidades es a como crear objetos, como crear métodos, como crear constructores, como funcionan las relaciones entre clases,
+como funciona la herncia entre clases,como indicar a una clase que es heredada de otra, también aprendí a como crear clases estáticas y como funcionan y también a como crear interfaces y como implementarlas,etc.
+
+### 4.2. Qué utilidad le veo a lo que aprendí
+>La utilidad que le veo a lo que aprendí es que gracias al aprender a como crear objetos, además de como crear constructores y métodos, esto me sirve como base para poder empezar a crear programas más visuales y también a entender como funcionan.
+
+### 4.3 Lo más positivo que he adquirido en estas dos unidades
+>Lo más positivo que he adquirido en estas dos unidades es que he aprendido muchas cosas nuevas sobre la ***Programación Orientada a Objetos (POO)***, he aprendido como funcionan los objetos y que lo positivo de aprender esto es que me puede servir para crear programas relacionados con la ***Programación Orientada a Objetos (POO)*** en el futuro y a entenderlos y comprenderlos mejor.
+
+### 4.4 Lo que menos me ha gustado de estas dos unidades
+>Lo que menos me ha gustado de estas dos unidades fue que no hemos hecho ningún programa con algún elemento visual como un botón funcional, un objeto con funciones, un objeto (cuadrado,círculo,...) que se pueda mover,etc.
 
 ![](https://desarrolloweb.com/media/154/programacion-orientada-a-objetos.jpeg)
 
