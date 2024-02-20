@@ -31,7 +31,7 @@ hacer un parchís el cual se vea el tablero, se vean las fichas, que las fichas 
 como funciona la herencia de clases,que atributos heredan las clases, que es una superclase, que es una subclase, saber diferenciarlas, saber que una clase puede superclase de una clase y
 a su vez ser subclase de otra, saber que una clase por defecto tiene una superclase llamada ***Object*** de la cual heredan los métodos que esta tiene
 que son los métodos **toString** y el **equals**, otra cosa que he aprendido es que un objeto puede tener un atributo cuyo tipo sea de otro objeto
-que hayamos creado.También he aprendido cuáles son los tipos de atributos ***(public,private,protected y friendly)*** y las reglas de visibilidad de cada uno de ellos ,etc.
+que hayamos creado.También he aprendido cuáles son los tipos de atributos ***(public,private,protected y friendly)*** y las reglas de visibilidad de cada uno de ellos,etc.
 
 
 ### Reglas de visibilidad:
@@ -258,7 +258,7 @@ public class App {
 ## 4. Mis conclusiones en este momento sobre estas dos unidades:
 ### 4.1. Que aprendí realmente de estas dos unidades
 >Lo que realmente aprendí de estas dos unidades es a como crear objetos, como crear métodos, como crear constructores, como funcionan las relaciones entre clases,
-como funciona la herncia entre clases,como indicar a una clase que es heredada de otra, también aprendí a como crear clases estáticas y como funcionan y también a como crear interfaces y como implementarlas,etc.
+como funciona la herencia entre clases,cómo indicar a una clase que es heredada de otra, también aprendí a como crear clases estáticas y como funcionan y también a como crear interfaces y como implementarlas,etc.
 
 ### 4.2. Qué utilidad le veo a lo que aprendí
 >La utilidad que le veo a lo que aprendí es que gracias al aprender a como crear objetos, además de como crear constructores y métodos, esto me sirve como base para poder empezar a crear programas más visuales y también a entender como funcionan.
