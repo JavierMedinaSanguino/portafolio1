@@ -31,8 +31,20 @@ hacer un parchís el cual se vea el tablero, se vean las fichas, que las fichas 
 como funciona la herencia de clases, que atributos heredan las clases, que es una superclase, que es una subclase, saber diferenciarlas, saber que una clase puede superclase de una clase y
 a su vez ser subclase de otra, saber que una clase por defecto tiene una superclase llamada ***Object*** de la cual heredan los métodos que esta tiene
 que son los métodos **toString** y el **equals**, otra cosa que he aprendido es que un objeto puede tener un atributo cuyo tipo sea de otro objeto
-que hayamos creado.También he aprendido cuales son los tipos de atributos ***(public,private,friendly)*** ,etc.
+que hayamos creado.También he aprendido cuales son los tipos de atributos ***(public,private,friendly)*** y las reglas de visibilidad de cada uno de ellos ,etc.
 
+
+### Reglas de visibilidad:
+
+|Zona |Private(Privado) | Sin modificador(Friendly) | Protected(Protegido)| Public(Público)|
+|:---|:----|:----:| ----:| ----:|
+|Misma clase| X| X | X | X |
+|Subclase en el mismo paquete | | X | X | X |
+|Clase (no subclase) en el mismo paquete| | X | X | X |
+|Subclase en otro paquete | | | X | X |
+|Clase (no subclase) en otro paquete| | | | X |
+
+---
 
 ![](https://desarrolloweb.com/media/154/programacion-orientada-a-objetos.jpeg)
 
