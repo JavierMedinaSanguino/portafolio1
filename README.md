@@ -258,7 +258,7 @@ public class App {
 ## 4. Mis conclusiones en este momento sobre estas dos unidades:
 ### 4.1. Que aprendí realmente de estas dos unidades
 >Lo que realmente aprendí de estas dos unidades es a como crear objetos, como crear métodos, como crear constructores, como funcionan las relaciones entre clases,
-como funciona la herencia entre clases,cómo indicar a una clase que es heredada de otra, también aprendí a como crear clases estáticas y como funcionan y también a como crear interfaces y como implementarlas,etc.
+como funciona la herencia entre clases,como indicar a una clase que es heredada de otra, también aprendí a como crear clases estáticas y como funcionan y también a como crear interfaces y como implementarlas,etc.
 
 ### 4.2. Qué utilidad le veo a lo que aprendí
 >La utilidad que le veo a lo que aprendí es que gracias al aprender a como crear objetos, además de como crear constructores y métodos, esto me sirve como base para poder empezar a crear programas más visuales y también a entender como funcionan.
